@@ -1,4 +1,5 @@
-This is the documentation for the development of the electronics for the startup Keybird IVS. Keybird has developed a lightweight acoustic 69 key piano, and now wants to implement MIDI recording and a series of other functions regarding manipulation and control of MIDI signals.
+# Keybird Developement Documentation
+'This is the documentation for the development of the electronics for the startup Keybird IVS. Keybird has developed a lightweight acoustic 69 key piano, and now wants to implement MIDI recording and a series of other functions regarding manipulation and control of MIDI signals.
 
 ![alt text](https://www.worldpianonews.com/wp-content/uploads/2020/09/keybird-X1_FB2.jpg)
 
