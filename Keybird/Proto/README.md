@@ -11,4 +11,4 @@ The reasoning for the faulty functionalities of the v. 1.0 prototype is as follo
   * Analog MUXs is used inorder to increase to number of ADC channels, which can introduce both latency and noise.
   * The chosen microcontroller does not have a capable clocks speed in order to do ADC for 69 individual keys. 
 
-A complete redesign was therefore necessary as the prior design did have a sufficient groundwork.
+A complete redesign was therefore necessary as the prior design did have a sufficient groundwork. All files from the prior project can be found in this subfolder.
